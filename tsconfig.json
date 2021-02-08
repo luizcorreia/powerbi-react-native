@@ -3,6 +3,8 @@
   "compilerOptions": {
     "target": "es6",
     "module": "es6",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
     "declaration": true,
     "outDir": "./lib",
     "strict": true,
