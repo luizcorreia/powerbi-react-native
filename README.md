@@ -44,3 +44,5 @@ import { PowerBIEmbed } from 'powerbi-client-react';
 	}}
 />
 ```
+
+[Contribution guidelines for this project](CONTRIBUTING.md)
